@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template", "Template", "{E1
 		template.txt = template.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5", "day5\day5.csproj", "{2B82F970-38A8-49F1-8BBE-C8E7392BE0C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{7DA4511F-E338-4049-A56F-1E3A06914045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DA4511F-E338-4049-A56F-1E3A06914045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DA4511F-E338-4049-A56F-1E3A06914045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B82F970-38A8-49F1-8BBE-C8E7392BE0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B82F970-38A8-49F1-8BBE-C8E7392BE0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B82F970-38A8-49F1-8BBE-C8E7392BE0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B82F970-38A8-49F1-8BBE-C8E7392BE0C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
